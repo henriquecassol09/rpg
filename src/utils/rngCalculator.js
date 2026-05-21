@@ -1,4 +1,4 @@
-import { GAME_RULES } from './src/utils/constants';
+import { GAME_RULES } from './constants';
 
 /**
  * Utilitários de Geração Aleatória (RNG)
